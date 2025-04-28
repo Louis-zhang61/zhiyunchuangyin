@@ -352,7 +352,7 @@ def main():
                 <line x1="5" y1="12" x2="19" y2="12"></line>
                 <polyline points="12 5 19 12 12 19"></polyline>
             </svg>
-            <a href="http://zychuangyin.xzin.top/" target="_blank" class="link-text">听听生成的歌曲/纯音乐（电脑端体验感更好哦！）</a>
+            <a href="http://zychuangyin.xzin.top/" target="_blank" class="link-text">听听生成的歌曲（电脑端体验感更好哦！）</a>
         </div>
     </div>
     """, unsafe_allow_html=True)
